@@ -1,0 +1,46 @@
+1. About Us
+    
+    Who we are
+    Home - title and description
+    -> learn more
+        - title and description
+        -> (cards) => our mission - our passion and goal as a church
+                 our ministries - kids, students and adults
+                 our beliefs - our spiritual foundation
+                 our history - learn more about our history
+2. Join Us
+    -> steps to join process
+
+3. Events
+    -> all the events upcoming, ongoing and closed
+    -> make sure to put the event status
+
+4. Ministries
+    -> motivational headings
+        - kids, students, adults and others
+
+5. Give
+    -> Motivational headings
+    -> source to pay national and international 
+        -> esewa, imepay, khalti, ipsconnect, debit/credit
+
+6. Contact Us     
+    -> motivational headings        
+    -> contact form
+    -> Locations
+        - working map with images and addresses
+    -> addresses cards
+    -> contact numbers 
+    -> social links    
+
+7. Login
+
+8. Register
+
+Crud -> list for all users and crud for admin only
+    Sections 
+    events 
+    ministries
+    carousel image
+    users list in table
+
